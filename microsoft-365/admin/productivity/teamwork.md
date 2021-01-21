@@ -39,7 +39,7 @@ After people have been active in the above products at least once in the last 28
 
 ## Why your org's teamwork score matters
 
-A fundamental pillar for organizational productivity is when a group of people with a common goal work with each other and with common resources for collective success. Research indicates that when people share information and collaborate in shared workspaces, they save up to 4 hours a week. They can find related documents, find context for previous discussions, and deliver towards shared goals. See the[evidence](https://www.microsoft.com/microsoft-365/blog/wp-content/uploads/sites/2/2019/04/Total-Economic-Impact-Microsoft-Teams.pdf)
+A fundamental pillar for organizational productivity is when a group of people with a common goal work with each other and with common resources for collective success. Research indicates that when people share information and collaborate in shared workspaces, they save up to 4 hours a week. They can find related documents, find context for previous discussions, and deliver towards shared goals. See the [evidence].(https://www.microsoft.com/microsoft-365/blog/wp-content/uploads/sites/2/2019/04/Total-Economic-Impact-Microsoft-Teams.pdf)
 
 ## How we calculate the teamwork score
 
