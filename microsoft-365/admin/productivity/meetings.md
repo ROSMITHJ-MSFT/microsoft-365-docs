@@ -79,7 +79,7 @@ We also provide you with supporting information to hep you understand how people
 :::image type="content" source="../../media/videouse-meetings.png" alt-text="Chart showing primary insights for meetings - people experiences.":::
 
 1. **Header:**  Highlights the percentage of online Microsoft Teams meetings that use video best practices considered in the primary insight and scoring.
-2. **Body:** Hrovides information on the value of using these practices during meetings to make them more engaging. 
+2. **Body:** Provides information on the value of using these practices during meetings to make them more engaging. 
 3. **Visualization:** The breakdown in the visualization is meant to represent the extent to which online Microsoft Teams meetings are following each of the following best practices: 
     - **Video**: The colored portion and the fraction represent the percentage of online Microsoft Teams meetings that have video turned on. The fraction is constructed from: 
         - Numerator:  Online Microsoft Teams meetings held in the last 28 days that had video from at least one participant turned on. 
